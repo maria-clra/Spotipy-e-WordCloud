@@ -82,4 +82,5 @@ axs[1, 1].plot(top_names, top_values)
 axs[1, 1].set_title("Top 7 Gêneros")
 
 plt.tight_layout()
+plt.savefig("grafico_spotify.png", dpi=300)
 plt.show()
