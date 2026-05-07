@@ -19,7 +19,7 @@ Projeto em Python que gera uma **nuvem de palavras** e gráficos com os artistas
 
 Uma nuvem de artistas mais ouvidos 🎶☁️
 <p align="center">
-  <img src="artistas/grafico_spotify.png" width="500">
+  <img src="grafico_spotify.png" width="500">
 </p>
 
 
